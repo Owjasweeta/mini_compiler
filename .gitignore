@@ -1,0 +1,12 @@
+# Compiled binary
+minicompiler
+
+# Object files
+*.o
+*.out
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
