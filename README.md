@@ -1,5 +1,5 @@
 # mini_compiler
-# 🛠️ Mini Expression Compiler
+# Mini Expression Compiler
 
 A complete compiler pipeline built from scratch in **C++17** — featuring a hand-written lexer, recursive-descent parser, AST builder, stack-based bytecode code generator with backpatching, and a virtual machine executor.
 
@@ -7,7 +7,7 @@ Built as a systems programming project to explore how compilers translate high-l
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 Source Code (.mc)
@@ -40,7 +40,7 @@ Source Code (.mc)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 minicompiler/
@@ -60,7 +60,7 @@ minicompiler/
 
 ---
 
-## ⚙️ Build & Run
+## Build & Run
 
 **Requirements:** g++ with C++17 support
 
@@ -87,7 +87,7 @@ make
 
 ---
 
-## 📝 Language Syntax
+## Language Syntax
 
 The compiler supports a simple imperative language with `.mc` extension.
 
@@ -121,7 +121,7 @@ print sum;             // prints 55
 
 ---
 
-## 🔍 Example Output
+## Example Output
 
 Running `./minicompiler examples/example3.mc --emit-ir`:
 
@@ -157,7 +157,7 @@ Running `./minicompiler examples/example3.mc --emit-ir`:
 
 ---
 
-## 🧠 Key Concepts Implemented
+## Key Concepts Implemented
 
 | Concept | Where |
 |---|---|
@@ -171,7 +171,7 @@ Running `./minicompiler examples/example3.mc --emit-ir`:
 
 ---
 
-## 🛣️ Potential Extensions
+## Potential Extensions
 
 - [ ] Functions and return values
 - [ ] Type system (int, float, bool)
@@ -181,7 +181,7 @@ Running `./minicompiler examples/example3.mc --emit-ir`:
 
 ---
 
-## 👤 Author
+## Author
 
 **Owjasweeta Changmai**  
 M.Tech Information Technology, Delhi Technological University  
