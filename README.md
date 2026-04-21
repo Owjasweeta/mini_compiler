@@ -1,4 +1,4 @@
-# mini_compiler
+
 # Mini Expression Compiler
 
 A complete compiler pipeline built from scratch in **C++17** — featuring a hand-written lexer, recursive-descent parser, AST builder, stack-based bytecode code generator with backpatching, and a virtual machine executor.
