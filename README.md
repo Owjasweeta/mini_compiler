@@ -180,9 +180,3 @@ Running `./minicompiler examples/example3.mc --emit-ir`:
 - [ ] Optimization passes (constant folding, dead code elimination)
 
 ---
-
-## Author
-
-**Owjasweeta Changmai**  
-M.Tech Information Technology, Delhi Technological University  
-[LinkedIn](https://www.linkedin.com/in/owjasweeta/) • [GitHub](https://github.com/Owjasweeta)
